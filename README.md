@@ -4,7 +4,7 @@
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
 ## Dashboard Gif
-![Dashboard_Gif](./output.gif)
+![Dashboard_Gif](./output2.gif)
   
 
 ## Skills Showcased
@@ -35,7 +35,8 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](/Screenshot%202025-06-25%20192112.png)  
+![Data Jobs Dashboard Page 2](/Screenshot%202025-06-25%20215043.png)  
+
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
