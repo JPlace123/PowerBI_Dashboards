@@ -9,7 +9,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ## Skills Showcased
 
-This project was a journey through key Power BI features. Here's a look at what we mastered:
+This project was a journey through key Power BI features. Here's a look at what I've mastered:
 
 -   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 -   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
@@ -31,7 +31,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ![Data Jobs Dashboard Page 1](/Screenshot%202025-06-25%20191851.png)  
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This is the mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
